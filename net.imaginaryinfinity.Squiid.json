@@ -39,8 +39,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.com/ImaginaryInfinity/squiid-calculator/squiid/-/archive/1.2.0/squiid-1.2.0.tar.gz",
-                    "sha256": "01f6142c986ce744ea7df86da17d43b593d56c8b843e6f502b0327ef43e3fcb8"
+                    "url": "https://gitlab.com/ImaginaryInfinity/squiid-calculator/squiid/-/archive/1.2.0-flatpak-hotfix/squiid-1.2.0-flatpak-hotfix.tar.gz",
+                    "sha256": "dd7478defd1eb584865919ce624d2bfe8d065f5c2a6d4792cbb96ba980e052c2"
                 },
                 "generated-sources.json"
             ]
