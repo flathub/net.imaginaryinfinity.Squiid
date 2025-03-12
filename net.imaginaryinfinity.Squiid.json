@@ -39,8 +39,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://gitlab.com/ImaginaryInfinity/squiid-calculator/squiid/-/archive/1.2.2/squiid-1.2.2.tar.gz",
-                    "sha256": "75b2ac5526878aa49aa97c63f7041796768fcfc3a7c63e3692fa65648ea5ebfc"
+                    "url": "https://gitlab.com/ImaginaryInfinity/squiid-calculator/squiid/-/archive/1.3.0/squiid-1.3.0.tar.gz",
+                    "sha256": "526c34a68740e6fb1246bc23a547dfe3f975ddea1b964b317e957d8e3ef7d6dc"
                 },
                 "generated-sources.json"
             ]
